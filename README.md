@@ -1,2 +1,4 @@
-# Colorado_Solar_Installation_Adoption_Rates_DS
-My first data science practicum project for Regis University
+# Colorado Solar Installation Adoption Rates Data Science
+My first data science practicum project for Regis University.
+
+
