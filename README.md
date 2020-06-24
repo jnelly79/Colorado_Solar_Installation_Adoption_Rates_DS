@@ -12,6 +12,7 @@ With the use of machine learning and assumed values from feature engineering, th
 
 *   'py' files: Project Code.
 * 'data' folder: Data files.
+* Predicting_Solar_Adoption_Rates.pdf: Project Report.
 
 Data on the housing addresses will not be provided due to privacy, the Wood Mackenzie data is also not public either.
 
